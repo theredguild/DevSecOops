@@ -4,7 +4,7 @@
 
 Hi! And welcome to the DevSecOops repository. An educational repository complementary to our [@theredguild/devsecops-toolkit](https://github.com/theredguild/devsecops-toolkit) where we provide practical aid on how to use some of the tools depicted there.
 
-To start, you should have at least built the `workshop-minimal` image of that container.
+**To start,** you should have at least built the `workshop-minimal` image of that container.
 
 ```bash
 git clone https://github.com/theredguild/devsecops-toolkit
@@ -39,3 +39,9 @@ wanderer@trg ~ $
 ```
 
 We don't use these tools daily, but they are a selection and a curation of our own after thorough research, testing, and asking around :). If you want more tools, you can checkout `develop` but today in its current state it weights like +10GB.
+
+## Handbook
+
+We migrated this README.md to a book. So go check it out!
+https://devsecoops.vercel.app/ or
+https://devsecoops.theredguild.org

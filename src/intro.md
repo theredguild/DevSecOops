@@ -2,7 +2,7 @@
 
 ![AI Generated](oops.png)
 
-Hi! And welcome to the DevSecOops repository. An educational repository complementary to our [@theredguild/devsecops-toolkit](https://github.com/theredguild/devsecops-toolkit) where we provide practical aid on how to use some of the tools depicted there.
+Hi! And welcome to the DevSecOops handbook. An educational approach, complementary to our [@theredguild/devsecops-toolkit](https://github.com/theredguild/devsecops-toolkit) where we provide practical aid on how to use some of the tools depicted there.
 
 To start, you should have at least built the `workshop-minimal` image of that container.
 
