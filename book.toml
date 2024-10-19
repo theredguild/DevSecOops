@@ -1,0 +1,6 @@
+[book]
+authors = ["matta"]
+language = "en"
+multilingual = false
+src = "src"
+title = "DevSecOops handbook"
