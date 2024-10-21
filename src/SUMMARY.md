@@ -22,4 +22,6 @@
     - [OWASP: dep-scan](./code/deps/depscan.md)
   - [NodeJS specific](./code/nodejs.md)
 - [Container / Images](./container/intro.md)
+  - [Linters](./container/linters.md)
+  - [Vulnerabilities](./container/vulns.md)
 - [Cloud](./cloud/intro.md)

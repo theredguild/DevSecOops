@@ -7,3 +7,5 @@ When you're building your next big project, those third-party libraries are like
 That's why it's crucial to keep an eye on these dependencies and run vulnerability scans. Think of it as a health check-up for your code. By catching these issues early, you can keep your project safe and sound.
 
 We have selected two tools for you to try for this section, the first one is OWASP'S dep-scan, and the second is Dependency-check. We think their name make it pretty obvious they're a great fit for this section, right?
+
+In the branch `develop`, you will also find `Snyk` which performs beautifully, not only in this realm but in many others.
