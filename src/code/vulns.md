@@ -1,3 +1,1 @@
-# Dependencies
-
-Semgrep
+# Vulnerabilities
