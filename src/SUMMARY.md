@@ -1,6 +1,6 @@
 # Summary
 
-- [Introduction](./intro.md)
+- [Introduction](./intro/intro.md)
 - [GitHub Analysis](./github/intro.md)
   - [GitXRay](./github/gitxray.md)
   - [Fake Analyzer](./github/fake-analyzer.md)
@@ -25,3 +25,4 @@
   - [Linters](./container/linters.md)
   - [Vulnerabilities](./container/vulns.md)
 - [Cloud](./cloud/intro.md)
+- [Outro](./outro/outro.md)
