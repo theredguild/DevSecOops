@@ -1,8 +1,9 @@
 # DevSecOops
 
-![AI Generated](src/oops.png)
-
 Hi! And welcome to the DevSecOops repository. An educational repository complementary to our [@theredguild/devsecops-toolkit](https://github.com/theredguild/devsecops-toolkit) where we provide practical aid on how to use some of the tools depicted there.
+
+![AI Generated](src/intro/oops.png)
+
 
 **To start,** you should have at least built the `workshop-minimal` image of that container.
 
@@ -42,6 +43,4 @@ We don't use these tools daily, but they are a selection and a curation of our o
 
 ## Handbook
 
-We migrated this README.md to a book. So go check it out!
-https://devsecoops.vercel.app/ or
-https://devsecoops.theredguild.org
+If you haven't noticed, we migrated the practical content from the README.md to a book. So go check it out! DevSecOops.theredguild.org
