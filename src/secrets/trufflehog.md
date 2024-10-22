@@ -1,6 +1,6 @@
 # Trufflehog
 
-To start with the wizard you can run `sudo trufflehog` and follow the steps! But if you want a specific command, you can run each of them manually. Check `--help` to see them all. You can scan from git, to s3/gcs buckets; docker images, CIs, and even your filesystem.
+To start with [**this tool**](https://github.com/trufflesecurity/trufflehog)'s wizard you can run `sudo trufflehog` and follow the steps! But if you want a specific command, you can run each of them manually. Check `--help` to see them all. You can scan from git, to s3/gcs buckets; docker images, CIs, and even your filesystem.
 
 Note: Make sure to append `--no-update` in order to avoid getting an error while updating to latest version. If you'd like to update you'll need to have root privileges or run it with `sudo`.
 

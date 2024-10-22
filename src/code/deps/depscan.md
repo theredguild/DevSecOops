@@ -1,6 +1,6 @@
 # OWASP's dep-scan
 
-So, about this first one, it is actually an official project from OWASP. It focused on known vulnerabilities, advisories, and license restrictions in project dependencies. It can process both local repositories and container images as input, making it perfect for integration.
+So, about [this first one](https://github.com/owasp-dep-scan/depscan-bin/), it is actually an official project from OWASP. It focused on known vulnerabilities, advisories, and license restrictions in project dependencies. It can process both local repositories and container images as input, making it perfect for integration.
 
 We are going to show you many tools who have features, based on other projects like [cdxgen](https://github.com/CycloneDX/cdxgen), to generate Software Bill-of-Materials (BOM). This is like basically creating a list of all the libraries, dependencies, configurations, workflows, your project has in order to get them analyzed.
 

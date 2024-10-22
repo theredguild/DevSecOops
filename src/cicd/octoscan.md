@@ -1,6 +1,6 @@
 # GitHub: Octoscan Static Vuln Scanner
 
-There's also another interesting tool we've found worth mentioning, and it is **`Octoscan`**.
+There's also another interesting tool we've found worth mentioning, and it is [**`Octoscan`**](https://github.com/synacktiv/octoscan).
 
 It has two commands, `dl` (download) and `scan`. Let's start with the first one:
 

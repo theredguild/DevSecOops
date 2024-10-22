@@ -1,6 +1,6 @@
 # GitXRay
 
-One tool that works out of the box is `gitxray`, by a fellow hacker from the @ekoparty, Lucas.
+One tool that works out of the box is **[`gitxray`](https://gitxray.com/)**, by a fellow hacker from the @ekoparty, Lucas.
 The only thing I'd suggest doing if you want to actually do a profound analysis, is that by default it uses GH's public access token, so you'll need to add an environment variable when you call it. Othwerwise, to do a shallow an quick analysis you're fine.
 
 In case you want to do it, I'll guest creating a Fine-grained Personal Access Token that expires soon enough, with a representative name and Read Only access to Public Repositories.

@@ -2,7 +2,7 @@
 
 When it comes to vulnerabilities, it's a broad topic with many potential entry points within a project. Whether it's the code you wrote, contributions from others, or third-party libraries and dependencies, vulnerabilities can lurk anywhere.
 
-In the `develop` branch of the @devsecops-toolkit, you'll find tools like `Grype` and `Snyk` that are designed to scan for vulnerabilities within a repository. However, our focus will be on exploring other tools that can enhance your security arsenal.
+In the `develop` branch of the @devsecops-toolkit, you'll find tools like [**`Grype`**](https://github.com/anchore/grype) and [**`Snyk`**](https://github.com/snyk/cli) that are designed to scan for vulnerabilities within a repository. However, our focus will be on exploring other tools that can enhance your security arsenal.
 
 For those interested in expanding their toolkit, the [OWASP's Source Code Analysis Tools](https://owasp.org/www-community/Source_Code_Analysis_Tools) list is a great resource to explore.
 

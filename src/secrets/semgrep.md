@@ -1,6 +1,6 @@
 # Semgrep
 
-We are going to start with Semgrep, which is a powerful, customizable lightweight static analysis tool for many languages. Out of the box works like a charm, but if you login, which is free, you have access to the rest of the rules.
+We are going to start with [**`Semgrep`**](https://semgrep.dev/), which is a powerful, customizable lightweight static analysis tool for many languages. Out of the box works like a charm, but if you login, which is free, you have access to the rest of the rules.
 
 ```bash
 wanderer@trg ~ $ semgrep login

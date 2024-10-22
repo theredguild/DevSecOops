@@ -1,6 +1,6 @@
 # OWASP Dependency-check
 
-Yet another OWASP tool to do dependency checking. This one also requires access to several externally hosted resources.
+[Yet another OWASP tool](https://github.com/jeremylong/DependencyCheck) to do dependency checking. This one also requires access to several externally hosted resources.
 
 In order to analyze some technology stacks dependency-check may require other development tools to be installed. For this purpose we have only installed a few (yarn, pnpm, go, etc).
 

@@ -1,6 +1,6 @@
 # GitHub: Tindersec's Workflow Auditor
 
-And start by using a tool called **`gh-workflow-auditor`** by @TinderSec. This tool not only scans for actions, but the entire workflow. It looks for malicious or ill-intended inputs, from commits' title messages, to author's name or email fields.
+And start by using a tool called [**`gh-workflow-auditor`**](https://github.com/tindersec/gh-workflow-auditor) by @TinderSec. This tool not only scans for actions, but the entire workflow. It looks for malicious or ill-intended inputs, from commits' title messages, to author's name or email fields.
 
 Exporting PAT on the same line, run it like this:
 

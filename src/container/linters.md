@@ -2,7 +2,7 @@
 
 Linting is a crucial step in development, since it can bring many insights and best practices that can help us avoid commiting horrible mistakes.
 
-The first tool we've tested and found was **Hadolint**, which is not included now since it was apparently rewritten in **Semgrep** and can be easily replaced by a rule. Either way, we suggest you try Hadolint for itself to double check.
+The first tool we've tested and found was [**`Hadolint`**](https://github.com/hadolint/hadolint), which is not included now since it was apparently rewritten in **Semgrep** and can be easily replaced by a rule. Either way, we suggest you try Hadolint for itself to double check.
 
 ## Semgrep
 
@@ -31,7 +31,7 @@ Since you've already seen many examples of this tool, I'm not going to show many
 
 ## Dockle
 
-This is an amazing and widely used linter to scan images, but it only scans images. In order to scan you either need to provide an image name and tag, or save it to a tar file and then scan it locally.
+[**This is**](https://github.com/goodwithtech/dockle/) an amazing and widely used linter to scan images, but it only scans images. In order to scan you either need to provide an image name and tag, or save it to a tar file and then scan it locally.
 
 Here's an example from their repository:
 ```bash

@@ -1,6 +1,6 @@
 # 2ms
 
-What we like about 2ms is that it will allow you to scan through different platforms that we haven't seen in other tools, such as: Cnfluence, Discord, and Slack servers; Paligo instances; git repositories and filesystem files/folders.
+What we like about **[`2ms`](https://github.com/Checkmarx/2ms)** is that it will allow you to scan through different platforms that we haven't seen in other tools, such as: Cnfluence, Discord, and Slack servers; Paligo instances; git repositories and filesystem files/folders.
 
 Everytime you see filesystem and local git repository as options you might think it is the same, but don't forget patterns may benefit one scenario more than other.
 

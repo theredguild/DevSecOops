@@ -1,6 +1,6 @@
 # Checkov
 
-In this case we're going to use `checkov`, since it has the possibility to scan many frameworks:
+In this case we're going to use **[`checkov`](https://github.com/bridgecrewio/checkov)**, since it has the possibility to scan many frameworks:
 
 ```plaintext
 all, ansible, argo_workflows, arm, azure_pipelines, bicep, bitbucket_pipelines, cdk,

@@ -16,7 +16,7 @@ Now, let's introduce some tools that can help you tackle these issues. They all 
 
 ## RetireJS
 
-A fast and simple scanner. It scans your code and dependencies, giving you a heads-up on what needs updating.
+A [fast and simple scanner](https://github.com/RetireJS). It scans your code and dependencies, giving you a heads-up on what needs updating.
 
 ```js
 wanderer@trg NodeGoat $ retire
@@ -58,11 +58,9 @@ The following template can be used to demonstrate the vulnerability:
 
 Although we don't particularly like the output, at least for its CLI version, we have to admit it is incredibly fast. This is probably because it only looks through locked versions.
 
-
 ## Better NPM Audit
 
-Better NPM Audit takes the standard npm audit and kicks it up a notch. It provides more detailed insights and helps you prioritize which vulnerabilities to tackle first.
-
+[Better NPM Audit](https://www.npmjs.com/package/better-npm-audit) takes the standard npm audit and kicks it up a notch. It provides more detailed insights and helps you prioritize which vulnerabilities to tackle first.
 
 ```bash
 wanderer@trg NodeGoat $ better-npm-audit audit
@@ -85,7 +83,7 @@ wanderer@trg NodeGoat $ better-npm-audit audit
 
 ## NodeJsScan
 
-Don't expect this one to run as fast as the previous ones, a least not for huge codebases, since it checks all installed dependencies as well. It is a static analyzer that checks your code for common security issues and vulnerabilities, whether it's a misconfiguration or a sneaky piece of code.
+Don't expect [this one](https://github.com/ajinabraham/NodeJsScan) to run as fast as the previous ones, a least not for huge codebases, since it checks all installed dependencies as well. It is a static analyzer that checks your code for common security issues and vulnerabilities, whether it's a misconfiguration or a sneaky piece of code.
 
 ```bash
 wanderer@trg ~ $ nodejsscan -d NodeGoat -o report.json

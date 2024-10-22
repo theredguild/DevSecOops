@@ -1,6 +1,6 @@
 # Fake Analyzer
 
-This one allows you to select a username, without the need for a repository or an organization. It just looks through almost anything it can find and creates a JSON report for you to inspect.
+[This tool](https://github.com/shortdoom/gh-fake-analyzer) allows you to select a username, without the need for a repository or an organization. It just looks through almost anything it can find and creates a JSON report for you to inspect.
 
 Let's start with an example of their repo, running the tool against `eduales99`.
 

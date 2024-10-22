@@ -1,6 +1,6 @@
 # Semgrep
 
-You already know we like Semgrep, but in our previous example we just ran it to scan for secrets. Thing is, I did not tell you how amazing it by default:
+You already know we like [**Semgrep**](https://semgrep.dev/), but in our previous example we just ran it to scan for secrets. Thing is, I did not tell you how amazing it by default:
 
 ```bash
 wanderer@trg NodeGoat $ semgrep scan .
