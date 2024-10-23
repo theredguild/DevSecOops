@@ -27,14 +27,14 @@ dependency-check -n -s NodeGoat --out .
 
 If you were to open the output from a browser, you'll see among the parameters of execution, the following summary.
 
-![alt text](depcheck/depcheck_summary.png)
+![Depcheck summary](depcheck/depcheck_summary.png)
 
 And for each vulnerable dependency, an excerpt like this one:
 
-![alt text](depcheck/depcheck_vuln.png)
+![Depcheck vulnerabilities](depcheck/depcheck_vuln.png)
 
 You can even expand some of the information like Evidence, and Related dependencies:
 
-![alt text](depcheck/depcheck_evidence.png)
+![Depcheck summary: Evidence](depcheck/depcheck_evidence.png)
 
 It includes recommendation and sources of information from where it grabbed them in the first place to conduct the analysis.

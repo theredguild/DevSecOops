@@ -60,7 +60,7 @@ Once you've logged in, return here and you'll be ready to start using new Semgre
 
 The followoing image will pop up, and when you press activate you're ready. If this is your first time you will need to register.
 
-![Semgrep login screen](semgrep_login.png)
+![Semgrep login screen](semgrep/semgrep_login.png)
 
 ```bash
 Once you've logged in, return here and you'll be ready to start using new Semgrep rules.
@@ -106,7 +106,7 @@ wanderer@trg NodeGoat $ semgrep ci
 
 If you go to the semgrep platform, inside the Projects folder you will see that a local_scan on NodeGoat is In Progress.
 
-![Semgrep Panel](semgrep_panel.png) ![Scan in progress](semgrep_scans.png)
+![Semgrep Panel](semgrep/semgrep_panel.png) ![Scan in progress](semgrep/semgrep_scans.png)
 
 This scan, will eventually enable some of their products, download necessary engines to run, and run them. You will be able to see everything beautifully displayed on the web platform.
 

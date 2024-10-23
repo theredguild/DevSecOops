@@ -1,6 +1,6 @@
 # Summary
 
-- [Introduction](./intro/intro.md)
+- [Introduction](./intro.md)
 - [GitHub Analysis](./github/intro.md)
   - [GitXRay](./github/gitxray.md)
   - [Fake Analyzer](./github/fake-analyzer.md)

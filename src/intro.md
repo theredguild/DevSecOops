@@ -2,7 +2,7 @@
 
 Hi! And welcome to the DevSecOops handbook. An educational approach, complementary to our [@theredguild/devsecops-toolkit](https://github.com/theredguild/devsecops-toolkit) where we provide practical aid on how to use some of the tools depicted there.
 
-![AI Generated](oops.png)
+![AI Generated](intro/oops.png)
 
 To start, you should have at least built the `workshop-minimal` image of that container.
 There are several ways you could do this, but I'm going to show you only two, one remote and one local.
@@ -12,7 +12,7 @@ There are several ways you could do this, but I'm going to show you only two, on
 Literally just [click here](https://gitpod.io/#https://github.com/theredguild/devsecops-toolkit) and that's almost it. I'd choose **Terminal**, **Large**, `Ctrl + Enter` and you're done. You just need to run `make exec`.
 
 <p align="center">
-  <img src="./gitpod.png" alt="Gitpod deployment" width="50%">
+  <img src="intro/gitpod.png" alt="Gitpod deployment" width="50%">
 </p>
 
 Here we can build the entire repository from `develop` since connectivity issues won't be a problem.
